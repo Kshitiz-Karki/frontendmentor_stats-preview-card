@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Github]()
--   Live Site URL: [Github Pages]()
+-   Solution URL: [Github](https://github.com/Kshitiz-Karki/frontendmentor_stats-preview-card)
+-   Live Site URL: [Github Pages](https://kshitiz-karki.github.io/frontendmentor_stats-preview-card/)
 
 ## My process
 
